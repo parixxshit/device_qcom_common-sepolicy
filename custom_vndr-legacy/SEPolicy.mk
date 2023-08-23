@@ -37,4 +37,4 @@ ifneq ($(AOSPA_BUILD),)
         $(COMMON_SEPOLICY_PATH)/aospa/private
 endif
 
-include device/custom/sepolicy/qcom/sepolicy.mk
+include device/derp/sepolicy/qcom/sepolicy.mk
